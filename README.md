@@ -1,9 +1,20 @@
-cowboy_hello_world
-=====
+# Cowboy Starter Kit
+Implementation of Gist located here: https://gist.github.com/flbuddymooreiv/ce1d7a47b12c27bf1616
 
-An OTP application
+Erlang + Cowboy-2.0 + Rebar3
 
-Build
------
+## Install
+```
+git clone https://github.com/drasko/cowboy-starter-kit
+```
 
-    $ rebar3 compile
+### Run
+```bash
+rebar3 run
+```
+
+### Build
+```bash
+$ rebar3 compile
+```
+
