@@ -3,7 +3,7 @@ Implementation of Gist located here: https://gist.github.com/flbuddymooreiv/ce1d
 
 Erlang + Cowboy-2.0 + Rebar3
 
-Generated with `rebar3 new cowboy_hello_world`.
+Generated with `rebar3 new release cowboy_hello_world`.
 
 ## Install
 ```
